@@ -3,17 +3,17 @@
 |Esquematico|
 |:-----:|
 |![Esquematico](https://github.com/gbss31/FonteAjustavel/blob/main/Esquematico.PNG)|
-|Autores: Vinicius Anjos, Edgar e Gabriel Gregorio|
+|Autores: Edgar Silva e Gabriel Gregorio, Joel Mitsrael e Vinicius Anjos|
 
 
 
 |Layout|
 |:-----:|
 |![Layout](https://github.com/gbss31/FonteAjustavel/blob/main/Layout.PNG)|
-|Autores: Vinicius Anjos, Edgar e Gabriel Gregorio|
+|Autores: Edgar Silva e Gabriel Gregorio, Joel Mitsrael e Vinicius Anjos|
 
 
 |3D|
 |:-----:|
 |![3D](https://github.com/gbss31/FonteAjustavel/blob/main/3D.PNG)|
-|Autores: Vinicius Anjos, Edgar e Gabriel Gregorio|
+|Autores: Edgar Silva e Gabriel Gregorio, Joel Mitsrael e Vinicius Anjos|
