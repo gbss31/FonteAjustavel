@@ -9,7 +9,7 @@
 
 |Figura 2: Layout (EasyEDA)|
 |:-----:|
-|![Layout](https://github.com/gbss31/FonteAjustavel/blob/main/Layout.PNG)|
+|![Layout](https://github.com/gbss31/FonteAjustavel/blob/6d0529ed1ae6901dae333c27f0208ba51584bfbd/Layout.PNG)|
 |Autores: Edgar Silva, Gabriel Gregorio, Joel Mitsrael e Vinicius Anjos|
 
 
